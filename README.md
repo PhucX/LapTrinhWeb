@@ -11,11 +11,7 @@
 
 
 ## Triển khai và chạy
-- Triển khai WAR lên Tomcat 10.1+ (copy vào `TOMCAT_HOME/webapps/` hoặc dùng Tomcat Manager).
-- Sau khi deploy, giả sử context path là `/HelloWorld`, truy cập trang chủ:
-  - `http://localhost:8080/HelloWorld/`
-
-Nếu chạy trong Spring Tool Suite/Eclipse với Tomcat tích hợp:
+Chạy trong Spring Tool Suite/Eclipse với Tomcat tích hợp:
 - Add project vào server Tomcat 10.1+ và Start server. Truy cập context path được gán bởi IDE.
 
 ## Các tính năng và tuyến (routes)
