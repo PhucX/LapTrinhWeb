@@ -9,11 +9,6 @@
 - `src/main/webapp/` chứa các trang HTML tĩnh và tài nguyên web
 - `pom.xml` cấu hình Maven (biên dịch Java 17, đóng gói WAR)
 
-## Cài đặt và build
-```bash
-mvn clean package
-```
-Kết quả: file WAR ở `target/HelloWorld-0.0.1.war`.
 
 ## Triển khai và chạy
 - Triển khai WAR lên Tomcat 10.1+ (copy vào `TOMCAT_HOME/webapps/` hoặc dùng Tomcat Manager).
