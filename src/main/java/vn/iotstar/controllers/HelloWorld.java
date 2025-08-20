@@ -11,7 +11,7 @@ import java.io.PrintWriter;
 /**
  * Servlet implementation class HelloWorld
  */
-@WebServlet(urlPatterns = { "/HelloWorld" })
+
 public class HelloWorld extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
