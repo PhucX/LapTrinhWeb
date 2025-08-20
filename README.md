@@ -14,7 +14,7 @@
 Chạy trong Spring Tool Suite/Eclipse với Tomcat tích hợp:
 - Add project vào server Tomcat 10.1+ và Start server. Truy cập context path được gán bởi IDE.
 
-## Các tính năng và tuyến (routes)
+## Các tính năng
 
 ### 1) Form cơ bản (HelloWorld)
 - Trang: `GET /index.html` chứa form gửi `ten`, `holot`
